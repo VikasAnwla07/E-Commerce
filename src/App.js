@@ -15,7 +15,7 @@ import {
 } from "react-router-dom";
 import CartPage from './pages/CartPage';
 import Checkout from './pages/Checkout';
-import ProductDetail from './features/product-list/components/ProductDetail';
+import ProductDetail from './features/product/components/ProductDetail';
 
 const router = createBrowserRouter([
   {
